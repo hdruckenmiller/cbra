@@ -1,1 +1,8 @@
-Repository to store code and data for "Can Removing Development Subsidies Promote Adaptation? The Coastal Barrier Resources System as a Natural Experiment"
+README 
+
+This respository contains the processed data and code required to replicate "Can removing development subsidies promote adaptation? The Coastal Barrier Resources Act as a Natural Experiment"
+
+Authors: Hannah Druckenmiller (Caltech), Yanjun Liao (Resources for the Future), Sophie Pesek (UC Santa Barbara), Margaret Walls (Resources for the Future), and Shan Zhang (Old Dominion University)
+
+All raw data used in the analysis is publicly available, with the exception of the property-level data from Zillow Transaction and Assessment Database (ZTRAX), which is proprietary. Instructions for accessing the data can be found in the paper's supplemenatry information in section B1.
+
